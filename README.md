@@ -1,5 +1,7 @@
-# Hands-onMachineLearning-
-Studies about machine learning with Scikit-Learn, Keras &amp; Tensorflow
+# Hands-onMachineLearning
+Studies about the book
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
+Book by Aurelien Geron - Second Edition
 
 What Is Machine Learning?
 
@@ -322,7 +324,7 @@ d
 
 Links
 
-* [llSourcell/100_Days_of_ML_Code](https://github.com/llSourcell/100_Days_of_ML_Code)
+* [100_Days_of_ML_Code](https://github.com/llSourcell/100_Days_of_ML_Code)
 * [DrivenData](https://www.drivendata.org/)
 
 # Snippet
